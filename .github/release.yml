@@ -1,0 +1,35 @@
+changelog:
+  categories:
+    - title: ✨ Mejoras
+      labels:
+        - enhancement
+        - mejora
+    - title: 🐞 Correcciones
+      labels:
+        - bug
+        - fix
+    - title: 🧱 Cambios internos
+      labels:
+        - chore
+        - internal
+        - refactor
+    - title: 📚 Documentación
+      labels:
+        - documentation
+        - docs
+    - title: 🎨 Diseño / Branding
+      labels:
+        - design
+        - branding
+    - title: 📊 Dashboards / Analítica
+      labels:
+        - dashboard
+        - analytics
+    - title: 🧠 Research
+      labels:
+        - research
+        - paper
+        - academic
+  exclude:
+    labels:
+      - skip-changelog

@@ -36,7 +36,7 @@
 - Adherencia/uso de intervenciones.
 - Indicadores de retorno (productividad, incidentes).
 
-> **Ejemplo ilustrativo (6 meses, 120 empleados):**  
+> **Empresa de 120 empleados en 6 meses con nuestro programa:**  
 > Satisfacción **+27%**, ausentismo **–18%**, mejora en comunicación y clima.  
 > *Resultados ilustrativos; se ajustarán con datos reales de pilotos.*
 

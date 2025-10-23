@@ -4,10 +4,7 @@
 blank_issues_enabled: false
 
 contact_links:
-  - name: 💬 Contacto institucional — Psiconecta
-    url: https://psiconecta.shop
-    about: Usa este enlace solo para consultas generales o soporte fuera de GitHub.
   - name: 📧 Correo oficial
-    url: mailto:contacto@psiconecta.do
+    url: mailto:royerwatson@gmail.com
     about: Si tienes una incidencia que requiere atención confidencial o profesional, escríbenos aquí.
 

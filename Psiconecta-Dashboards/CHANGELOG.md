@@ -3,18 +3,16 @@ Todos los cambios de este proyecto se documentan aquí, siguiendo [Keep a Change
 
 ## [0.1.0] - 2025-10-23
 ### Añadido
-- Estructura institucional del repositorio.
-- README visual corporativo con descripción de servicios y KPI.
-- Carpeta `/presentaciones` para materiales institucionales.
-- Carpeta `.github` con plantillas de Issues y Pull Requests.
-- Documentos: `CONTRIBUTING.md` y `CODE_OF_CONDUCT.md`.
+- Estructura base para dashboards y scripts.
+- Carpeta `/src` con ejemplo de gráfico en Python.
+- Carpeta `/docs` con guía de métricas e interpretación.
+- Carpeta `/notebooks` para prototipos de análisis.
 
 ### Cambiado
-- Ajuste de branding al estilo mindfulness corporativo.
-- Integración de banner institucional Psiconecta Empresarial.
+- Visuales alineados a la paleta mindfulness corporativa.
+- README con guía para ejecutar y visualizar KPIs.
 
 ## [Unreleased]
 ### Añadido
-- Nuevas presentaciones de bienestar corporativo.
-- Actualización de metodología de intervención PsicoWellness.
-- Material de casos de éxito con métricas reales.
+- Nuevos gráficos interactivos y dashboards de bienestar.
+- Integración de datos simulados de ausentismo y satisfacción.

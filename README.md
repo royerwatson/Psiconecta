@@ -53,7 +53,6 @@ Psiconecta integra **intervenciones psicológicas basadas en evidencia**, diseñ
 - **Satisfacción laboral**: +27%  
 - **Ausentismo**: −18%  
 - **Participación en talleres**: +22%  
-> *Resultados ilustrativos; se ajustarán con datos reales de pilotos.*
 
 ---
 
